@@ -14,3 +14,4 @@ The dataset called soil_measures.csv, which contains:
 Each row in this dataset represents various measures of the soil in a particular field. Based on these measurements, the crop specified in the "crop" column is the optimal choice for that field.
 
 In this project, was builded multi-class classification models to predict the type of "crop" and identify the single most importance feature for predictive performance.
+
